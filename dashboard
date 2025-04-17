@@ -1,34 +1,46 @@
-# 📊 Dashboards - Power BI
+# 📊 Portfólio de Dashboards - Power BI 
 
-Este repositório apresenta alguns dos dashboards desenvolvidos por mim utilizando o **Power BI**, com foco em análise de dados, visualização intuitiva e tomada de decisão orientada por dados.
-
-## 🔗 Acesse os Dashboards
-
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| **Análise de bugs referente ao sistema SISVISA** | Dashboard interativo com overview de desempenho comercial, incluindo KPIs, faturamento e ticket médio. | [🔗 Acessar Dashboard](https://drive.google.com/drive/folders/16DcIt0pbnrb-Cd1RWEZTnAWxZb-P402S?usp=drive_link) |
-| **Controle de Atendimento Técnico** | Visualização de chamados, tipos de atendimento e tempo de resolução com foco em eficiência operacional. | [🔗 Acessar Planilha](https://docs.google.com/spreadsheets/d/1tj8xKeIrYaVXNfJDOOrUhoflkNZnbZzU/edit?usp=drive_link&ouid=104024924164605934930&rtpof=true&sd=true) |
-| **Monitoramento de Rede e Infraestrutura** | Acompanhamento de dispositivos, falhas e status da rede em tempo real. | [🔗 Acessar Relatório](https://drive.google.com/file/d/1gtI8tT6_0w3KIVQvQOq8UjG7SSkh3pJz/view?usp=drive_link) |
+**Dashboards profissionais com foco em análise de dados, visualização intuitiva e tomada de decisão orientada por dados**
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Projetos Destacados
 
-- Power BI
-- Excel / Power Query
-- SQL Server
+### 📌 [Análise de Bugs - Sistema SISVISA](https://drive.google.com/drive/folders/16DcIt0pbnrb-Cd1RWEZTnAWxZb-P402S?usp=drive_link)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- Dashboard interativo de desempenho comercial
+- Principais KPIs: faturamento, ticket médio e métricas de qualidade
+- *Recursos: filtros dinâmicos, tooltips informativos*
 
-## 📁 Estrutura do Projeto
+### 📌 [Controle de Atendimento Técnico](https://docs.google.com/spreadsheets/d/1tj8xKeIrYaVXNfJDOOrUhoflkNZnbZzU/edit?usp=drive_link)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- Monitoramento de chamados técnicos
+- Análise de tempo médio de resolução (SLAs)
+- *Destaque: visualização de tendências mensais*
 
-- `dashboards/` → Contém o índice e descrição dos dashboards com os links para visualização.
+### 📌 [Monitoramento de Rede](https://drive.google.com/file/d/1gtI8tT6_0w3KIVQvQOq8UjG7SSkh3pJz/view?usp=drive_link)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+- Dashboard em tempo real de infraestrutura
+- Alertas de dispositivos críticos
+- *Feature: histórico de disponibilidade*
 
 ---
 
-## 📬 Contato
+## 🛠 Stack Técnica
 
-Caso tenha interesse em algum projeto, ou deseje falar comigo:
+| Tecnologia | Aplicação |
+|------------|-----------|
+| ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Criação de visualizações e modelos de dados |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Transformação de dados com Power Query |
+| ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ETL e consultas complexas |
 
-**Nome:** Márcio Teles da Silva 
-**Email:** tsmarcio@hotmail.com
-**LinkedIn:** [🔗 Perfil no LinkedIn](https://www.linkedin.com/in/márcio-teles-63191387/)
+---
 
+## 📬 Contato Profissional
+
+**Márcio Teles da Silva**  
+📧 [tsmarcio@hotmail.com](mailto:tsmarcio@hotmail.com)  
+🔗 [[LinkedIn]](https://www.linkedin.com/in/márcio-teles-63191387/)  
+📞 *(21)96497-6686*
+
+[![Portfólio Power BI](https://img.shields.io/badge/🔎_Ver_Portfólio_Completo-FF5722?style=for-the-badge)](https://drive.google.com/drive/folders/16DcIt0pbnrb-Cd1RWEZTnAWxZb-P402S)
